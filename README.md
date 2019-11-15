@@ -14,4 +14,4 @@ Included Files:
 Description: In this assignment I created a linear extender controlled by a pin. I learned how to use several advanced and mechanical mates such as a slot mate. I also used a configuration. 
 
 Lessons Learned: I learned that you can add a feature to design tables and then use design tables to suppress that feature on some of the configurations but not all of them. 
-
+![alt text](https://github.com/jbrown56/Intermediate_CAD/blob/master/Media/desing_tables.PNG)
